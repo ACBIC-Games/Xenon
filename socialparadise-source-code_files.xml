@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="SocialParadise.7z" source="original">
+    <mtime>1629226886</mtime>
+    <size>2074217</size>
+    <md5>fe8f649b9e4e2fa226d0ed3c68112b1f</md5>
+    <crc32>e5e29269</crc32>
+    <sha1>9b2184cd184443aa3ec3253e018881df3a004583</sha1>
+    <format>7z</format>
+    <viruscheck>1629227287</viruscheck>
+  </file>
+  <file name="socialparadise-source-code_archive.torrent" source="metadata">
+    <btih>af76da0338f577697cca85fabcd773f7de3ac219</btih>
+    <mtime>1629227288</mtime>
+    <size>1809</size>
+    <md5>1d4ff09e32c740b15869bdf8371f51c8</md5>
+    <crc32>15a759bd</crc32>
+    <sha1>f5bac125f976b3d1d9b8ee2a6b4e09fa8a5dbc24</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="socialparadise-source-code_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f8d67c70a612f893673c219fc3d87343</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="socialparadise-source-code_meta.sqlite" source="original">
+    <mtime>1629226969</mtime>
+    <size>20480</size>
+    <md5>dae338aa56eaa4cb5cb4e8cf7a41e3aa</md5>
+    <crc32>22654ffd</crc32>
+    <sha1>6a9daf47f2a0ad14f2ac9aa38c56e29e8e532368</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="socialparadise-source-code_meta.xml" source="original">
+    <mtime>1629227287</mtime>
+    <size>1835</size>
+    <md5>03d866e2312ce0e324470dcd183cd30e</md5>
+    <crc32>263308ad</crc32>
+    <sha1>62ad5ad5323aa4d88510facf10c4172275120db9</sha1>
+    <format>Metadata</format>
+  </file>
+</files>

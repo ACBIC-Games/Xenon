@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>socialparadise-source-code</identifier>
+  <mediatype>software</mediatype>
+  <collection>open_source_software</collection>
+  <creator>Isaac Hymer</creator>
+  <date>2012-01-30</date>
+  <description>&lt;div&gt;I used to be pretty big in the Roblox ripoff/sandbox game 
+development community circa 2016/17-2019, and website source code was constantly leaked.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;This is the source code of one of, if not the first, the first SANS websites, SocialParadise, ran from 2012 to 2013 by Isaac Hymer. &lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;I probably got this from a "SANS source code download" website that briefly existed in 2018. The date comes from the first log message reported in the error log - Jan 30, 2012. The site was not launched for several months after that.&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;WARNING: THIS CODE IS TERRIBLE AND VERY INSECURE!&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;</description>
+  <language>eng</language>
+  <scanner>Internet Archive HTML5 Uploader 1.6.4</scanner>
+  <subject>sans</subject>
+  <title>SocialParadise [SANS Site Source Code]</title>
+  <subject>isaac hymer</subject>
+  <subject>socialparadise</subject>
+  <subject>social paradise</subject>
+  <uploader>mario64crashed@gmail.com</uploader>
+  <collection>community</collection>
+  <publicdate>2021-08-17 19:02:22</publicdate>
+  <addeddate>2021-08-17 19:02:22</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20210817190807[/date][comment]checked for malware[/comment]</curation>
+</metadata>
